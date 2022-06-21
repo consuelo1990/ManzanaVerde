@@ -53,12 +53,12 @@
 
 
         <Button
-            android:text="f"
             android:layout_width="100dp"
+            android:layout_height="wrap_content"
             android:layout_marginRight="18dp"
-            android:backgroundTint="@color/blue_900"
             android:layout_weight="1"
-            android:layout_height="wrap_content"/>
+            android:backgroundTint="@color/blue_900"
+            android:text="f" />
 
         <ImageButton
             android:layout_width="100dp"
@@ -81,6 +81,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/apple"
+        android:backgroundTint="@color/black"
         android:drawableLeft="@drawable/apple"
         android:layout_marginLeft="20dp"/>
 
