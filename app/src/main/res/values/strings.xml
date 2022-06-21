@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ManzanaVerde</string>
+    <string name="apple">continua con tu apple</string>
+    <string name="continuation">continua con tu celular</string>
+    <string name="correo">con tu correo</string>
+    <string name="login">Inicia sesion</string>
+
+</resources>
